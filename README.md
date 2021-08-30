@@ -11,4 +11,4 @@ Just click on the file.
 You should be redirected to the settings.
 One you are here, download the profile like a normal profile download.
 
-iSUpervisedProfiles • Made with 💖 by Triska.
+iSupervisedProfiles • Made with 💖 by Triska.
