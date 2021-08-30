@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>allowEnablingRestrictions</key>
+				<false />
+				<key>PayloadDisplayName</key>
+				<string>Restrictions</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadType</key>
+				<string>com.apple.applicationaccess</string>
+				<key>PayloadUUID</key>
+				<string>d85d6cc7-5ef1-42a8-811b-2de82f8af200</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>Blocks screen-time on supervised iDevices.
+
+Website : iSupervisedProfiles.triskayt.repl.co
+Requires supervised mode</string>
+		<key>PayloadDisplayName</key>
+		<string>ScreenTime Block</string>
+		<key>PayloadIdentifier</key>
+		<string>co.iSupervisedProfiles.ScreenTimeBlock</string>
+		<key>PayloadOrganization</key>
+		<string>iSupervisedProfiles</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>822363d3-ec2d-4fdb-8f4f-8106c444683c</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
